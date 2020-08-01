@@ -1,0 +1,76 @@
+body
+{
+  margin: 0;
+  padding: 0;
+  font-family: sans-sarif;
+  background: url(2.jpg) no-repeat;
+  background-size: cover;
+} 
+.welcome{
+background:#0000CD;
+background-size:cover;
+}
+.welcome h1{
+color:#ffffff;}
+.btn
+{
+display: block;
+margin: 0 auto;
+width:5%; 
+ background:#0000CD;
+border: 2px solid #ffffff;
+color:#ffffff;
+cursor:pointer;
+padding:12px;  
+border-radius: 14px;
+
+}
+.btn0
+{ 
+
+display: block;
+margin-left: auto;
+width:5%; 
+ background:#0000CD;
+
+color:#ffffff;
+cursor:pointer;
+padding:16px;  
+border-radius: 14px;
+
+}.btn1
+{
+display: block;
+margin: 0 auto;
+width:60%; 
+ background:#0000CD;
+
+color:#ffffff;
+cursor:pointer;
+padding:15px;  
+border-radius: 14px;
+
+}.btn2
+{
+
+width:10%; 
+ background:#0000CD;
+
+color:#ffffff;
+cursor:pointer;
+padding:15px;  
+border-radius: 14px;
+
+}.btn3
+{
+display: block;
+margin: 0 auto;
+width:50%; 
+ background:#0000CD;
+
+color:#ffffff;
+cursor:pointer;
+padding:15px;  
+border-radius: 14px;
+
+}
